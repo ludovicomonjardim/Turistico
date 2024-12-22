@@ -1,0 +1,116 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  font-family: "Open Sans", serif;
+  font-size: 16px;
+  line-height: 150%;
+  color: #1B1B1B;
+}
+
+body {
+  background-color: black;
+}
+
+main {
+  margin-bottom: 140px;
+}
+
+#page {
+  box-sizing: border-box;
+  width: 1280px;
+  padding: 80px;
+  background-color: white;
+  /* border-radius: 24px; */
+  margin: 0px auto;
+}
+
+.text-headline {
+  color:#E1624F;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+
+h1, h2, h3 {
+  color: #1B1B1B;
+  font-weight: bold;
+  
+}
+
+h1 {
+  font-size: 36px;
+  margin-top: 24px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 32px;  
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-size: 28px;
+  margin-left: 10px;
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+
+#main-photo p {
+  font-style: italic;
+  text-align: center;
+  margin-top: 0px;
+  padding: 0px;
+}
+
+#about {
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
+
+
+
+img {
+  border-radius: 28px;
+  margin-top: 50px;
+  /* margin-bottom: 10px; */
+}
+
+.good-for {
+  font-weight: bold;
+}
+
+#good-for-history {
+  color: #0C51A7;
+  font-weight: bold;
+}
+
+#good-for-couples {
+  color: #591B98;
+  font-weight: bold;
+}
+
+#good-for-family {
+  color: #E5245E;
+  font-weight: bold;
+}
+
+#good-for-budjet {
+  color: #E95E10;
+  font-weight: bold;
+}
+
+hr {
+  margin-bottom: 40px;
+}
+#description {
+  text-align: center;
+  margin-top: 40px;
+}
+
+footer {
+  text-align: center;
+}
